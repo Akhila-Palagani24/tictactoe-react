@@ -59,19 +59,17 @@ tictactoe-react/
 
 ---
 
-## 📸 Sample Outputs
-
-### Game Interface
+## 📸 Project Preview
 
 <p align="center">
-  <img src="./sample_outputs/img_1.jpeg" alt="Tic Tac Toe Game Interface" width="700"/>
+  <img src="./sample_outputs/img_1.jpeg" width="400"/>
+  <img src="./sample_outputs/image-2.jpeg" width="400"/>
 </p>
-
-### Gameplay Screen
 
 <p align="center">
-  <img src="./sample_outputs/image-2.jpeg" alt="Tic Tac Toe Gameplay" width="700"/>
+  <b>React + Tailwind CSS Tic-Tac-Toe Game</b>
 </p>
+
 
 ---
 
